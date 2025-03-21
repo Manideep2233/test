@@ -1,0 +1,10 @@
+name: de_challenge
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - pip
+  - pip:
+      - pytest
+
